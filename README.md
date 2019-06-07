@@ -12,6 +12,6 @@
 
 3. `run.bat` gives the training arguments.
 
-4. 'out_{}.png' is the sample result.
+4. './img/out_{}.png' is the sample result.
 
 5. Input images are in `./img`
