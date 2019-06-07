@@ -1,0 +1,89 @@
+Training started at 2019/06/07 ÷‹ŒÂ 15:01:31.11 
+epoch  50, content loss 5.55, style loss 46.15, TV loss 3.80, 0.03 sec
+epoch 100, content loss 3.20, style loss 20.11, TV loss 4.46, 0.03 sec
+epoch 150, content loss 2.29, style loss 11.51, TV loss 4.81, 0.03 sec
+epoch 200, content loss 1.81, style loss 8.23, TV loss 4.97, 0.03 sec
+change lr to 1.0e-03
+epoch 250, content loss 1.76, style loss 7.98, TV loss 4.98, 0.03 sec
+epoch 300, content loss 1.72, style loss 7.77, TV loss 4.98, 0.05 sec
+epoch 350, content loss 1.68, style loss 7.55, TV loss 4.99, 0.05 sec
+epoch 400, content loss 1.64, style loss 7.34, TV loss 4.99, 0.05 sec
+change lr to 1.0e-04
+epoch 450, content loss 1.64, style loss 7.31, TV loss 4.99, 0.05 sec
+epoch  50, content loss 9.60, style loss 14.64, TV loss 3.01, 0.05 sec
+epoch 100, content loss 5.22, style loss 7.68, TV loss 3.50, 0.06 sec
+change lr to 1.0e-03
+epoch 150, content loss 4.93, style loss 7.29, TV loss 3.52, 0.05 sec
+epoch 200, content loss 4.69, style loss 6.97, TV loss 3.54, 0.05 sec
+change lr to 1.0e-04
+epoch 250, content loss 4.66, style loss 6.93, TV loss 3.55, 0.05 sec
+epoch  50, content loss 5.02, style loss 6.58, TV loss 2.13, 0.14 sec
+epoch 100, content loss 3.04, style loss 4.31, TV loss 2.33, 0.14 sec
+change lr to 1.0e-03
+epoch 150, content loss 2.90, style loss 4.15, TV loss 2.34, 0.14 sec
+epoch  50, content loss 12.25, style loss 63.98, TV loss 4.18, 0.03 sec
+epoch 100, content loss 7.97, style loss 27.09, TV loss 4.90, 0.03 sec
+epoch 150, content loss 6.31, style loss 17.33, TV loss 5.12, 0.03 sec
+epoch 200, content loss 5.40, style loss 12.58, TV loss 5.25, 0.03 sec
+change lr to 1.0e-03
+epoch 250, content loss 5.31, style loss 12.16, TV loss 5.26, 0.05 sec
+epoch 300, content loss 5.23, style loss 11.80, TV loss 5.27, 0.03 sec
+epoch 350, content loss 5.15, style loss 11.43, TV loss 5.28, 0.03 sec
+epoch 400, content loss 5.06, style loss 11.06, TV loss 5.29, 0.05 sec
+change lr to 1.0e-04
+epoch 450, content loss 5.05, style loss 11.01, TV loss 5.29, 0.03 sec
+epoch  50, content loss 9.72, style loss 9.00, TV loss 2.64, 0.05 sec
+epoch 100, content loss 5.57, style loss 5.23, TV loss 2.93, 0.05 sec
+change lr to 1.0e-03
+epoch 150, content loss 5.31, style loss 4.97, TV loss 2.94, 0.05 sec
+epoch 200, content loss 5.09, style loss 4.77, TV loss 2.95, 0.05 sec
+change lr to 1.0e-04
+epoch 250, content loss 5.07, style loss 4.74, TV loss 2.95, 0.05 sec
+epoch  50, content loss 2.95, style loss 1.19, TV loss 1.46, 0.14 sec
+epoch 100, content loss 1.83, style loss 0.97, TV loss 1.41, 0.14 sec
+change lr to 1.0e-03
+epoch 150, content loss 1.75, style loss 0.95, TV loss 1.40, 0.14 sec
+epoch  50, content loss 0.91, style loss 4.91, TV loss 2.51, 0.05 sec
+epoch 100, content loss 0.46, style loss 2.51, TV loss 2.64, 0.03 sec
+epoch 150, content loss 0.34, style loss 1.73, TV loss 2.65, 0.03 sec
+epoch 200, content loss 0.29, style loss 1.34, TV loss 2.62, 0.03 sec
+change lr to 1.0e-03
+epoch 250, content loss 0.28, style loss 1.31, TV loss 2.61, 0.03 sec
+epoch 300, content loss 0.28, style loss 1.28, TV loss 2.60, 0.03 sec
+epoch 350, content loss 0.27, style loss 1.25, TV loss 2.59, 0.03 sec
+epoch 400, content loss 0.27, style loss 1.22, TV loss 2.59, 0.03 sec
+change lr to 1.0e-04
+epoch 450, content loss 0.27, style loss 1.22, TV loss 2.59, 0.05 sec
+epoch  50, content loss 2.44, style loss 2.52, TV loss 1.77, 0.06 sec
+epoch 100, content loss 1.19, style loss 1.47, TV loss 1.89, 0.05 sec
+change lr to 1.0e-03
+epoch 150, content loss 1.12, style loss 1.41, TV loss 1.89, 0.06 sec
+epoch 200, content loss 1.06, style loss 1.37, TV loss 1.89, 0.05 sec
+change lr to 1.0e-04
+epoch 250, content loss 1.05, style loss 1.36, TV loss 1.89, 0.05 sec
+epoch  50, content loss 2.13, style loss 1.33, TV loss 1.26, 0.14 sec
+epoch 100, content loss 1.20, style loss 0.90, TV loss 1.27, 0.16 sec
+change lr to 1.0e-03
+epoch 150, content loss 1.14, style loss 0.87, TV loss 1.26, 0.14 sec
+epoch  50, content loss 2.49, style loss 8.51, TV loss 2.75, 0.03 sec
+epoch 100, content loss 1.65, style loss 3.84, TV loss 2.91, 0.03 sec
+epoch 150, content loss 1.28, style loss 2.57, TV loss 2.92, 0.05 sec
+epoch 200, content loss 1.09, style loss 1.94, TV loss 2.90, 0.03 sec
+change lr to 1.0e-03
+epoch 250, content loss 1.07, style loss 1.89, TV loss 2.89, 0.03 sec
+epoch 300, content loss 1.06, style loss 1.84, TV loss 2.89, 0.03 sec
+epoch 350, content loss 1.04, style loss 1.79, TV loss 2.88, 0.05 sec
+epoch 400, content loss 1.02, style loss 1.75, TV loss 2.87, 0.05 sec
+change lr to 1.0e-04
+epoch 450, content loss 1.02, style loss 1.74, TV loss 2.87, 0.03 sec
+epoch  50, content loss 2.41, style loss 2.29, TV loss 1.46, 0.06 sec
+epoch 100, content loss 1.48, style loss 1.39, TV loss 1.50, 0.06 sec
+change lr to 1.0e-03
+epoch 150, content loss 1.42, style loss 1.33, TV loss 1.50, 0.05 sec
+epoch 200, content loss 1.37, style loss 1.28, TV loss 1.50, 0.05 sec
+change lr to 1.0e-04
+epoch 250, content loss 1.37, style loss 1.27, TV loss 1.50, 0.05 sec
+epoch  50, content loss 1.41, style loss 0.57, TV loss 0.84, 0.14 sec
+epoch 100, content loss 0.76, style loss 0.45, TV loss 0.77, 0.16 sec
+change lr to 1.0e-03
+epoch 150, content loss 0.72, style loss 0.43, TV loss 0.76, 0.14 sec
