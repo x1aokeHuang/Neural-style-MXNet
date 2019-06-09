@@ -13,9 +13,21 @@
    </div>
 
    <div align="center">
+    <img src="https://x1aokehuang.github.io/images/neural_style/Forest.jpg" height="223px">
+    <img src="https://x1aokehuang.github.io/images/neural_style/style_1.jpg" height="223px">
+    <img src="https://x1aokehuang.github.io/images/neural_style/out_4.png" width="670px">
+   </div>
+
+   <div align="center">
     <img src="https://x1aokehuang.github.io/images/neural_style/BNU.jpg" height="223px">
     <img src="https://x1aokehuang.github.io/images/neural_style/style_0.jpg" height="223px">
     <img src="https://x1aokehuang.github.io/images/neural_style/out_1.png" width="633px">
+   </div>
+
+   <div align="center">
+    <img src="https://x1aokehuang.github.io/images/neural_style/BNU.jpg" height="223px">
+    <img src="https://x1aokehuang.github.io/images/neural_style/style_1.jpg" height="223px">
+    <img src="https://x1aokehuang.github.io/images/neural_style/out_2.png" width="633px">
    </div>
 
 3. Training on:
